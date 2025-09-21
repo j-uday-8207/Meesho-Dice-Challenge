@@ -1,0 +1,62 @@
+[
+  {
+    "query": "women dress",
+    "success": false,
+    "product_count": 0,
+    "error": "HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /api/search?q=women%20dress (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107c78970>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+  },
+  {
+    "query": "men tshirt",
+    "success": false,
+    "product_count": 0,
+    "error": "HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /api/search?q=men%20tshirt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107c68190>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+  },
+  {
+    "query": "kids toys",
+    "success": false,
+    "product_count": 0,
+    "error": "HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /api/search?q=kids%20toys (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107c68c70>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+  },
+  {
+    "query": "home decor",
+    "success": false,
+    "product_count": 0,
+    "error": "HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /api/search?q=home%20decor (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107c5c700>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+  },
+  {
+    "query": "kitchen accessories",
+    "success": false,
+    "product_count": 0,
+    "error": "HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /api/search?q=kitchen%20accessories (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107c5b490>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+  },
+  {
+    "query": "mobile accessories",
+    "success": false,
+    "product_count": 0,
+    "error": "HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /api/search?q=mobile%20accessories (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107c5cf70>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+  },
+  {
+    "query": "shoes",
+    "success": false,
+    "product_count": 0,
+    "error": "HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /api/search?q=shoes (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107c68fd0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+  },
+  {
+    "query": "handbags",
+    "success": false,
+    "product_count": 0,
+    "error": "HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /api/search?q=handbags (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107c685b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+  },
+  {
+    "query": "jewellery",
+    "success": false,
+    "product_count": 0,
+    "error": "HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /api/search?q=jewellery (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107c78e50>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+  },
+  {
+    "query": "beauty products",
+    "success": false,
+    "product_count": 0,
+    "error": "HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /api/search?q=beauty%20products (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107c5b7f0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+  }
+]
